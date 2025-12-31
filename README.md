@@ -1,1 +1,0 @@
-# opsimathy.github.io

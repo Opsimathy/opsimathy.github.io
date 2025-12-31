@@ -10,10 +10,10 @@ A mixed-strategy profile is \(\sigma = (\sigma_1,\dots,\sigma_n)\).
 
 ## Expected payoff
 Payoffs become expectations under \(\sigma\):
-\[
+$$
 \mathbb{E}[u_i(\sigma)] = \sum_{s \in S_1 \times \cdots \times S_n}
 \left( \prod_{j=1}^n \sigma_j(s_j) \right) u_i(s).
-\]
+$$
 
 ## Support + indifference condition (key trick)
 In a mixed-strategy equilibrium, any pure strategy in the support of \(\sigma_i\) must yield the same expected payoff (otherwise you'd shift probability mass).
