@@ -1,0 +1,38 @@
+site_name: Game Theory Notes
+site_url: https://opsimathy.github.io/
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - roamlinks
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.details
+
+extra_javascript:
+  # MathJax for LaTeX
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Home: index.md
+  - Map of Content: moc.md
+  - Topics:
+      - Nash equilibrium: topics/nash-equilibrium.md
+      - Mixed strategies: topics/mixed-strategies.md
+      - Prisoner's dilemma: topics/prisoners-dilemma.md
+  - Glossary: glossary.md
