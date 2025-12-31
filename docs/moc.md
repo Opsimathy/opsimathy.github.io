@@ -1,11 +1,8 @@
-# Map of Content (MOC)
+# Map of Content
 
 ## Core solution concepts
 - [[topics/nash-equilibrium]]
 - [[topics/mixed-strategies]]
-
-## Canonical games
-- [[topics/prisoners-dilemma]]
 
 ## Supporting material
 - [[glossary]]

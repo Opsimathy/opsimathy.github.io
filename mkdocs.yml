@@ -25,7 +25,7 @@ markdown_extensions:
   - pymdownx.details
 
 extra_javascript:
-  # MathJax for LaTeX
+  - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
@@ -34,5 +34,4 @@ nav:
   - Topics:
       - Nash equilibrium: topics/nash-equilibrium.md
       - Mixed strategies: topics/mixed-strategies.md
-      - Prisoner's dilemma: topics/prisoners-dilemma.md
   - Glossary: glossary.md

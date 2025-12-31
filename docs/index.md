@@ -3,10 +3,13 @@
 Welcome! These are my notes on game theory: definitions, examples, proofs, and intuition.
 
 Start here:
-- [[moc]] (map of content)
+
+- [[moc]]
+
 - [[glossary]]
 
 Some topics:
+
 - [[topics/nash-equilibrium]]
+
 - [[topics/mixed-strategies]]
-- [[topics/prisoners-dilemma]]

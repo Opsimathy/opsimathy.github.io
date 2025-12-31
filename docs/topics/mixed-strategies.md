@@ -23,5 +23,4 @@ This is often how you *solve* for equilibrium mixing probabilities.
 Some games have no pure Nash equilibrium, but do have a mixed equilibrium (finite games always have at least one mixed Nash equilibrium).
 
 ## Links
-- Prev: [[phase1/nash-equilibrium]]
-- Related: [[phase1/normal-form-games]]
+- See also: [[glossary]]
